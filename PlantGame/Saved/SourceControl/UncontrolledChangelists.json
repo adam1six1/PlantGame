@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/BP_Plant.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PU/MKJ1BJM72R96SO8Q1A9VHR.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/BP_Plants/E_OverlapStatusChange.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/BP_Plants/BPI_Charactersattachmentinteract.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/BP_Plants/BP_Objectattachment.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/BP_Plants/BP_AttachedObjectPickup.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/48/ZLXZRMSWRSPGL6N1W4ELMY.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/UM/CUHSG5450JYO48PVUHK8B0.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FG/XGG8L1YHS9E8O1QWT4PKAI.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/OA/UAZFST171MLVDA6HPGE6QD.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame Github Files/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/P0/JZO5RYZ1I1TUU4LRVD1O7L.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/Adam/adam.umap",
 				"C:/temp/GitHub/PlantGame/PlantGame/Content/Adam/adam.umap",
@@ -53,11 +70,7 @@
 				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
 				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
-				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/BP_Plant.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PU/MKJ1BJM72R96SO8Q1A9VHR.uasset"
+				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
 			]
 		}
 	]
