@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/adam1/OneDrive/Documents/GitHub/PlantGame/PlantGame/Content/Adam/enemy1.uasset",
+				"C:/Users/adam1/OneDrive/Documents/GitHub/PlantGame/PlantGame/Content/Adam/enemyTesting.umap",
+				"C:/Users/adam1/OneDrive/Documents/GitHub/PlantGame/PlantGame/Content/Adam/healthBar/WB_healthBar.uasset",
+				"C:/Users/adam1/OneDrive/Documents/GitHub/PlantGame/PlantGame/Content/Adam/healthBar/BP_healthBar.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/Adam/adam.umap",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/Adam/enemyTesting.umap",
