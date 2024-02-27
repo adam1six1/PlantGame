@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/BP_Plant.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PU/MKJ1BJM72R96SO8Q1A9VHR.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/Inventory/HotbarSlot.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/Inventory/InventoryHotbar.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/Inventory/HUD.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/Inventory/MyPlayerController.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/Adam/adam.umap",
 				"C:/temp/GitHub/PlantGame/PlantGame/Content/Adam/adam.umap",
@@ -53,11 +63,7 @@
 				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
 				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
-				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/BP_Plant.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PU/MKJ1BJM72R96SO8Q1A9VHR.uasset"
+				"E:/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
 			]
 		}
 	]
