@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/temp/PlantGame/PlantGame/Content/Assets/Bed/BP_Bed.uasset",
+				"C:/temp/PlantGame/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YU/Z4OX3W8VB8GAZ7QKYZULZA.uasset",
+				"C:/temp/PlantGame/PlantGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/68/ETWOWD0ZBMEL5IWCYABG5X.uasset",
 				"E:/PlantGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/maccl/OneDrive/Desktop/CNIT 30600/PlantGame/Content/BP_Plant.uasset",
