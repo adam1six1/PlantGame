@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/Assets/BP_Bed.uasset",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/levels/mainLevel.umap",
+				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/DayNightCycle/BP_Sky_Sphere2.uasset",
 				"C:/temp/PlantGame/PlantGame/Content/Assets/BP_Bed.uasset",
 				"C:/temp/PlantGame/PlantGame/Content/levels/mainLevel.umap",
 				"C:/temp/PlantGame/PlantGame/Content/Widgets/WB_PlayerUI.uasset",
@@ -62,8 +65,6 @@
 				"C:/Users/adam1/Documents/GitHub/PlantGame/PlantGame/Content/Adam/vineClump.uasset",
 				"C:/Users/adam1/Documents/GitHub/PlantGame/PlantGame/Content/Assets/plantModels/M_spittingLilly.uasset",
 				"C:/Users/adam1/Documents/GitHub/PlantGame/PlantGame/Content/Assets/plantModels/spittingLilly_1_.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/Assets/BP_Bed.uasset",
-				"C:/Users/maccl/OneDrive/Desktop/CNIT 308/PlantGame/PlantGame/Content/levels/mainLevel.umap",
 				"C:/Users/adam1/Documents/GitHub/PlantGame/PlantGame/Content/Assets/plantModels/M_vineClump.uasset",
 				"/Users/adammalas/Documents/GitHub/PlantGame/PlantGame/Content/Assets/BP_Bed.uasset",
 				"C:/Users/adam1/Documents/GitHub/PlantGame/PlantGame/Content/Hotbar/WB_hotbar.uasset",
